@@ -1,7 +1,7 @@
 ## Run
 
 ```bash
-$ robot --outputdir reports main.robot
+$ robot --outputdir reports suites
 ```
 
 ## You should know
