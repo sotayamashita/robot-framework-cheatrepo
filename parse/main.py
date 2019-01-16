@@ -16,7 +16,7 @@ for test in suite.testcase_table:
     for i in test.steps:
         print(i)      # <robot.parsing.model.Step>
         print(i.name) # Logger
-        print(i.args) # Hello world
+        print(i.args) # [u'Hello World']
 
 # *** Keywords ***
 # Logger
