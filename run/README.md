@@ -1,4 +1,4 @@
-** Chrome **
+**Chrome**
 
 ```bash
 ${list}    Create List    --no-sandbox    --lang=ja
