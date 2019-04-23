@@ -22,3 +22,7 @@ ${desired_capabilities} =    Create Dictionary    os    #{OS}    os_version    #
 ```bash
 ${desired_capabilities} =    Create Dictionary    os    #{OS}    os_version    #{OS_VERSION}    browser    #{BROWSER}    browser_version    #{BROWSER}    browserName    MicrosoftEdge     resolution    #{RESOLUTION}
 ```
+
+ref:
+
+https://qiita.com/umasaki/items/ae49b170c78d7305f7e7
