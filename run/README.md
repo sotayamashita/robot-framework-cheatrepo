@@ -26,3 +26,4 @@ ${desired_capabilities} =    Create Dictionary    os    #{OS}    os_version    #
 ref:
 
 https://qiita.com/umasaki/items/ae49b170c78d7305f7e7
+https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities
